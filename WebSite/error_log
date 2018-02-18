@@ -1,0 +1,117 @@
+[26-Jan-2018 13:28:53 Europe/Dublin] PHP Notice:  Undefined index: demo-name in /home/w572707/team.webtechnologysolutions.eu/process.php on line 4
+[26-Jan-2018 13:28:53 Europe/Dublin] PHP Notice:  Undefined index: demo-name in /home/w572707/team.webtechnologysolutions.eu/process.php on line 5
+[26-Jan-2018 13:55:26 Europe/Dublin] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[26-Jan-2018 14:06:06 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 18
+[26-Jan-2018 14:08:45 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 18
+[26-Jan-2018 14:12:32 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 18
+[26-Jan-2018 14:12:51 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 18
+[26-Jan-2018 14:13:37 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 18
+[26-Jan-2018 14:14:23 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 18
+[26-Jan-2018 14:14:30 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 18
+[26-Jan-2018 14:16:39 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[26-Jan-2018 14:17:13 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[26-Jan-2018 14:17:29 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[26-Jan-2018 14:18:02 Europe/Dublin] PHP Notice:  Undefined variable: sql in /home/w572707/team.webtechnologysolutions.eu/process.php on line 21
+[26-Jan-2018 14:19:52 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[26-Jan-2018 14:37:53 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[26-Jan-2018 14:38:00 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[26-Jan-2018 14:38:02 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:19:09 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:22:24 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:22:37 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:07 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:11 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:12 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:25 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:27 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:44 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:48 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:32:49 Europe/Dublin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 19
+[27-Jan-2018 00:33:40 Europe/Dublin] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhostaa' (1) in /home/w572707/team.webtechnologysolutions.eu/process.php on line 11
+[27-Jan-2018 00:34:52 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:34:59 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:00 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:00 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:00 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:00 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:00 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:33 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:35 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:35 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:36 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:36 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[27-Jan-2018 00:35:39 Europe/Dublin] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/w572707/team.webtechnologysolutions.eu/process.php on line 28
+[01-Feb-2018 07:13:51 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:13:51 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:13:52 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:13:52 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:17:48 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:17:48 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:17:59 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:17:59 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:19:54 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:19:54 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:20:55 Europe/Dublin] PHP Notice:  Undefined variable: passwordD in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:55 Europe/Dublin] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'w572707_admin'@'localhost' (using password: NO) in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:55 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 13
+[01-Feb-2018 07:20:55 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:20:55 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:20:55 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:20:55 Europe/Dublin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/w572707/team.webtechnologysolutions.eu/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:20:57 Europe/Dublin] PHP Notice:  Undefined variable: passwordD in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:57 Europe/Dublin] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'w572707_admin'@'localhost' (using password: NO) in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:57 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 13
+[01-Feb-2018 07:20:57 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:20:57 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:20:57 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:20:57 Europe/Dublin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/w572707/team.webtechnologysolutions.eu/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:20:58 Europe/Dublin] PHP Notice:  Undefined variable: passwordD in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:58 Europe/Dublin] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'w572707_admin'@'localhost' (using password: NO) in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:58 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 13
+[01-Feb-2018 07:20:58 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:20:58 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:20:58 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:20:58 Europe/Dublin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/w572707/team.webtechnologysolutions.eu/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:20:59 Europe/Dublin] PHP Notice:  Undefined variable: passwordD in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:59 Europe/Dublin] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'w572707_admin'@'localhost' (using password: NO) in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:20:59 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 13
+[01-Feb-2018 07:20:59 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:20:59 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:20:59 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:20:59 Europe/Dublin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/w572707/team.webtechnologysolutions.eu/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:21:00 Europe/Dublin] PHP Notice:  Undefined variable: passwordD in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:21:00 Europe/Dublin] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'w572707_admin'@'localhost' (using password: NO) in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:21:00 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 13
+[01-Feb-2018 07:21:00 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:21:00 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:21:00 Europe/Dublin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:21:00 Europe/Dublin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/w572707/team.webtechnologysolutions.eu/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/w572707/team.webtechnologysolutions.eu/login.php on line 19
+[01-Feb-2018 07:21:47 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:21:47 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:25:16 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:25:16 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:25:17 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:25:17 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:29:20 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:29:20 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:30:25 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 15
+[01-Feb-2018 07:30:25 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 16
+[01-Feb-2018 07:39:10 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:39:10 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 13
+[01-Feb-2018 07:39:12 Europe/Dublin] PHP Notice:  Undefined index: UserName in /home/w572707/team.webtechnologysolutions.eu/login.php on line 12
+[01-Feb-2018 07:39:12 Europe/Dublin] PHP Notice:  Undefined index: Password in /home/w572707/team.webtechnologysolutions.eu/login.php on line 13
