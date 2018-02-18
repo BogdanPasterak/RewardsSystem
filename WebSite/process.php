@@ -3,9 +3,9 @@
 
   <?php
   $servername = "localhost";
-  $username = "w572707_admin";
-  $password = "password1234";
-  $dbname = "w572707_customers";
+  $username = "root";
+  $password = "";
+  $dbname = "rewardssystem";
 
   // Create connection
   $conn = new mysqli($servername, $username, $password,$dbname);
@@ -16,7 +16,7 @@
   }
   echo "Connected successfully";
 
-$sql = "INSERT INTO customers ( id , firstName, lastName, password, email, phone, address, city, county) VALUES (DEFAULT,'a','b', 'p' ,'c','d','e','f','g')";
+$sql = "INSERT INTO customers ( customerID, firstName, surname, password, mobileNumber, emailAddress, address, county, city) VALUES (DEFAULT,'a','b', 'p' ,'c','d','e','f','g')";
 
 if (mysqli_query($conn, $sql)) {
     echo "New record created successfully";
